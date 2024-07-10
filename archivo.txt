@@ -1,0 +1,5 @@
+entero num=0, total=10
+mientras(num<total)
+  num = num + 2
+fmientras
+imprime num, total
